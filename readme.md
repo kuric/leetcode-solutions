@@ -8,87 +8,87 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[JavaScript](./algorithms/two-sum/)|Medium|
-|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[JavaScript](./algorithms/add-two-numbers/)|Medium|
-|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[JavaScript](./algorithms/longest-substring-without-repeating-characters/)|Medium|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[JavaScript](./algorithms/two-sum.js)|Medium|
+<!-- |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[JavaScript](./algorithms/add-two-numbers/)|Medium|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[JavaScript](./algorithms/longest-substring-without-repeating-characters.js)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[JavaScript](./algorithms/reverse-integer/)|Easy|
-|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[JavaScript](./algorithms/string-to-integer/)|Easy|
+|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[JavaScript](./algorithms/string-to-integer.js)|Easy|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[JavaScript](./algorithms/palindrome-number/)|Easy|
-|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[JavaScript](./algorithms/container-with-most-water/)|Medium|
-|12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[JavaScript](./algorithms/integer-to-roman/)|Medium|
-|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[JavaScript](./algorithms/roman-to-integer/)|Easy|
-|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[JavaScript](./algorithms/longest-common-prefix/)|Easy|
-|15|[3Sum](https://leetcode.com/problems/3sum/)|[JavaScript](./algorithms/3sum/)|Medium|
-|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[JavaScript](./algorithms/3sum-closest/)|Medium|
-|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[JavaScript](./algorithms/letter-combinations-of-a-phone-number/)|Medium|
-|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[JavaScript](./algorithms/remove-nth-node-from-end-of-list/)|Easy|
-|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[JavaScript](./algorithms/valid-parentheses/)|Easy|
-|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[JavaScript](./algorithms/merge-two-sorted-lists/)|Easy|
-|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[JavaScript](./algorithms/generate-parentheses/)|Medium|
-|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[JavaScript](./algorithms/swap-nodes-in-pairs/)|Medium|
-|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[JavaScript](./algorithms/remove-duplicates-from-sorted-array/)|Easy|
+|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[JavaScript](./algorithms/container-with-most-water.js)|Medium|
+|12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[JavaScript](./algorithms/integer-to-roman.js)|Medium|
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[JavaScript](./algorithms/roman-to-integer.js)|Easy|
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[JavaScript](./algorithms/longest-common-prefix.js)|Easy|
+|15|[3Sum](https://leetcode.com/problems/3sum/)|[JavaScript](./algorithms/3sum.js)|Medium|
+|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[JavaScript](./algorithms/3sum-closest.js)|Medium|
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[JavaScript](./algorithms/letter-combinations-of-a-phone-number.js)|Medium|
+|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[JavaScript](./algorithms/remove-nth-node-from-end-of-list.js)|Easy|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[JavaScript](./algorithms/valid-parentheses.js)|Easy|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[JavaScript](./algorithms/merge-two-sorted-lists.js)|Easy|
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[JavaScript](./algorithms/generate-parentheses.js)|Medium|
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[JavaScript](./algorithms/swap-nodes-in-pairs.js)|Medium|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[JavaScript](./algorithms/remove-duplicates-from-sorted-array.js)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[JavaScript](./algorithms/remove-element/)|Easy|
-|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[JavaScript](./algorithms/implement-strstr/)|Easy|
-|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[JavaScript](./algorithms/search-in-rotated-sorted-array/)|Hard|
-|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[JavaScript](./algorithms/search-insert-position/)|Medium|
-|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[JavaScript](./algorithms/valid-sudoku/)|Easy|
-|38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[JavaScript](./algorithms/count-and-say/)|Easy|
-|39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[JavaScript](./algorithms/combination-sum/)|Medium|
-|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[JavaScript](./algorithms/multiply-strings/)|Medium|
-|46|[Permutations](https://leetcode.com/problems/permutations/)|[JavaScript](./algorithms/permutations/)|Medium|
-|50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[JavaScript](./algorithms/pow(x,n)/)|Medium|
-|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[JavaScript](./algorithms/maximum-subarray/)|Medium|
-|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[JavaScript](./algorithms/spiral-matrix/)|Medium|
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[JavaScript](./algorithms/implement-strstr.js)|Easy|
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[JavaScript](./algorithms/search-in-rotated-sorted-array.js)|Hard|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[JavaScript](./algorithms/search-insert-position.js)|Medium|
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[JavaScript](./algorithms/valid-sudoku.js)|Easy|
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[JavaScript](./algorithms/count-and-say.js)|Easy|
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[JavaScript](./algorithms/combination-sum.js)|Medium|
+|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[JavaScript](./algorithms/multiply-strings.js)|Medium|
+|46|[Permutations](https://leetcode.com/problems/permutations/)|[JavaScript](./algorithms/permutations.js)|Medium|
+|50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[JavaScript](./algorithms/pow(x,n).js)|Medium|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[JavaScript](./algorithms/maximum-subarray.js)|Medium|
+|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[JavaScript](./algorithms/spiral-matrix.js)|Medium|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[JavaScript](./algorithms/jump-game/)|Medium|
-|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[JavaScript](./algorithms/length-of-last-word/)|Easy|
-|61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[JavaScript](./algorithms/rotate-list/)|Medium|
-|66|[Plus One](https://leetcode.com/problems/plus-one/)|[JavaScript](./algorithms/plus-one/)|Easy|
-|67|[Add Binary](https://leetcode.com/problems/add-binary/)|[JavaScript](./algorithms/add-binary/)|Easy|
-|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[C++,Python](./algorithms/sqrtx/)|Easy|
-|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[JavaScript](./algorithms/climbing-stairs/)|Easy|
-|72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[JavaScript](./algorithms/edit-distance/)|Hard|
-|73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[JavaScript](./algorithms/set-matrix-zeroes/)|Medium|
-|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[JavaScript](./algorithms/search-a-2d-matrix/)|Medium|
-|75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[JavaScript](./algorithms/sort-colors/)|Medium|
-|77|[Combinations](https://leetcode.com/problems/combinations/)|[JavaScript](./algorithms/combinations/)|Medium|
-|80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[JavaScript](./algorithms/remove-duplicates-from-sorted-array-ii/)|Medium|
-|82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[C++](./algorithms/remove-duplicates-from-sorted-list-ii/)|Medium|
-|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[JavaScript](./algorithms/remove-duplicates-from-sorted-list/)|Easy|
-|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[JavaScript](./algorithms/merge-sorted-array/)|Easy|
-|92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[JavaScript](./algorithms/reverse-linked-list-ii/)|Medium|
-|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[JavaScript](./algorithms/validate-binary-search-tree/)|Medium|
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word.js)|[JavaScript](./algorithms/length-of-last-word/)|Easy|
+|61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[JavaScript](./algorithms/rotate-list.js)|Medium|
+|66|[Plus One](https://leetcode.com/problems/plus-one/)|[JavaScript](./algorithms/plus-one.js)|Easy|
+|67|[Add Binary](https://leetcode.com/problems/add-binary/)|[JavaScript](./algorithms/add-binary.js)|Easy|
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[C++,Python](./algorithms/sqrtx.js)|Easy|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[JavaScript](./algorithms/climbing-stairs.js)|Easy|
+|72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[JavaScript](./algorithms/edit-distance.js)|Hard|
+|73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[JavaScript](./algorithms/set-matrix-zeroes.js)|Medium|
+|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[JavaScript](./algorithms/search-a-2d-matrix.js)|Medium|
+|75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[JavaScript](./algorithms/sort-colors.js)|Medium|
+|77|[Combinations](https://leetcode.com/problems/combinations/)|[JavaScript](./algorithms/combinations.js)|Medium|
+|80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[JavaScript](./algorithms/remove-duplicates-from-sorted-array-ii.js)|Medium|
+|82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[C++](./algorithms/remove-duplicates-from-sorted-list-ii.js)|Medium|
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[JavaScript](./algorithms/remove-duplicates-from-sorted-list.js)|Easy|
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[JavaScript](./algorithms/merge-sorted-array.js)|Easy|
+|92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[JavaScript](./algorithms/reverse-linked-list-ii.js)|Medium|
+|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[JavaScript](./algorithms/validate-binary-search-tree.js)|Medium|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[JavaScript](./algorithms/same-tree/)|Easy|
-|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[JavaScript](./algorithms/symmetric-tree/)|Easy|
-|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[JavaScript](./algorithms/binary-tree-level-order-traversal/)|Easy|
-|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[JavaScript](./algorithms/maximum-depth-of-binary-tree/)|Easy|
-|107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[JavaScript](./algorithms/binary-tree-level-order-traversal-ii/)|Easy|
-|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Python](./algorithms/convert-sorted-array-to-binary-search-tree/)|Easy|
-|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[JavaScript](./algorithms/balanced-binary-tree/)|Easy|
-|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[JavaScript](./algorithms/minimum-depth-of-binary-tree/)|Easy|
-|112|[Path Sum](https://leetcode.com/problems/path-sum/)|[JavaScript](./algorithms/path-sum/)|Easy|
-|113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[JavaScript](./algorithms/path-sum-ii/)|Medium|
-|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[JavaScript](./algorithms/pascals-triangle/)|Easy|
-|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[JavaScript](./algorithms/pascals-triangle-ii/)|Easy|
-|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](./algorithms/best-time-to-buy-and-sell-stock/)|Easy|
-|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[JavaScript](./algorithms/valid-palindrome/)|Easy|
-|129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[JavaScript](./algorithms/sum-root-to-leaf-numbers/)|Medium|
-|136|[Single Number](https://leetcode.com/problems/single-number/)|[JavaScript](./algorithms/single-number/)|Medium|
-|137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[JavaScript](./algorithms/single-number-ii/)|Medium|
-|138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[JavaScript](./algorithms/copy-list-with-random-pointer/)|Hard|
-|139|[Word Break](https://leetcode.com/problems/word-break/)|[JavaScript](./algorithms/word-break/)|Medium|
-|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[JavaScript](./algorithms/linked-list-cycle/)|Medium|
-|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[JavaScript](./algorithms/linked-list-cycle-ii/)|Medium|
-|155|[Min Stack](https://leetcode.com/problems/min-stack/)|[JavaScript](./algorithms/min-stack/)|Easy|
-|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[JavaScript](./algorithms/intersection-of-two-linked-lists/)|Easy|
-|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[JavaScript](./algorithms/find-peak-element/)|Medium|
-|165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[JavaScript](./algorithms/compare-version-numbers/)|Easy|
-|169|[Majority Element](https://leetcode.com/problems/majority-element/)|[JavaScript](./algorithms/majority-element/)|Easy|
-|175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[SQL](./databases/combine-two-tables/)|Easy|
-|176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[SQL](./databases/second-highest-salary/)|Easy|
-|187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|[JavaScript](./algorithms/repeated-dna-sequences/)|Medium|
-|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[JavaScript](./algorithms/rotate-array/)|Easy|
-|190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[JavaScript](./algorithms/reverse-bits/)|Easy|
-|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[JavaScript](./algorithms/number-of-1-bits/)|Easy|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[JavaScript](./algorithms/symmetric-tree.js)|Easy|
+|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[JavaScript](./algorithms/binary-tree-level-order-traversal.js)|Easy|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[JavaScript](./algorithms/maximum-depth-of-binary-tree.js)|Easy|
+|107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[JavaScript](./algorithms/binary-tree-level-order-traversal-ii.js)|Easy|
+|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Python](./algorithms/convert-sorted-array-to-binary-search-tree.js)|Easy|
+|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[JavaScript](./algorithms/balanced-binary-tree.js)|Easy|
+|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[JavaScript](./algorithms/minimum-depth-of-binary-tree.js)|Easy|
+|112|[Path Sum](https://leetcode.com/problems/path-sum/)|[JavaScript](./algorithms/path-sum.js)|Easy|
+|113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[JavaScript](./algorithms/path-sum-ii.js)|Medium|
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[JavaScript](./algorithms/pascals-triangle.js)|Easy|
+|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[JavaScript](./algorithms/pascals-triangle-ii.js)|Easy|
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](./algorithms/best-time-to-buy-and-sell-stock.js)|Easy|
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[JavaScript](./algorithms/valid-palindrome.js)|Easy|
+|129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[JavaScript](./algorithms/sum-root-to-leaf-numbers.js)|Medium|
+|136|[Single Number](https://leetcode.com/problems/single-number/)|[JavaScript](./algorithms/single-number.js)|Medium|
+|137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[JavaScript](./algorithms/single-number-ii.js)|Medium|
+|138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[JavaScript](./algorithms/copy-list-with-random-pointer.js)|Hard|
+|139|[Word Break](https://leetcode.com/problems/word-break/)|[JavaScript](./algorithms/word-break.js)|Medium|
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[JavaScript](./algorithms/linked-list-cycle.js)|Medium|
+|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[JavaScript](./algorithms/linked-list-cycle-ii.js)|Medium|
+|155|[Min Stack](https://leetcode.com/problems/min-stack/)|[JavaScript](./algorithms/min-stack.js)|Easy|
+|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[JavaScript](./algorithms/intersection-of-two-linked-lists.js)|Easy|
+|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[JavaScript](./algorithms/find-peak-element.js)|Medium|
+|165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[JavaScript](./algorithms/compare-version-numbers.js)|Easy|
+|169|[Majority Element](https://leetcode.com/problems/majority-element/)|[JavaScript](./algorithms/majority-element.js)|Easy|
+|175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[SQL](./databases/combine-two-tables.js)|Easy|
+|176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[SQL](./databases/second-highest-salary.js)|Easy|
+|187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|[JavaScript](./algorithms/repeated-dna-sequences.js)|Medium|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[JavaScript](./algorithms/rotate-array.js)|Easy|
+|190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[JavaScript](./algorithms/reverse-bits.js)|Easy|
+|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[JavaScript](./algorithms/number-of-1-bits.js)|Easy|
 |192|[Word Frequency](https://leetcode.com/problems/word-frequency/)|[Shell](./shell/word-frequency/)|Medium|
 |193|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)|[Shell](./shell/valid-phone-numbers/)|Easy|
 |194|[Transpose File](https://leetcode.com/problems/transpose-file/)|[Shell](./shell/transpose-file/)|Medium|
@@ -165,7 +165,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[JavaScript](./algorithms/flipping-an-image/)|Easy|
 |852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[Python](./algorithms/peak-index-in-a-mountain-array/)|Easy|
 |872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[JavaScript](./algorithms/leaf-similar-trees/)|Easy|
-|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](./algorithms/middle-of-the-linked-list/)|Easy|
+|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](./algorithms/middle-of-the-linked-list/)|Easy| -->
 
 ### Features
 
@@ -183,7 +183,7 @@ You can choose any problem in LeetCode and bring your solution here. However, no
 ```
 --algorithms         # contains solutions for algorithmic problems in LeetCode
   --3sum             # named after the question itself
-    --Solution.java  # actual code for the solution. the problem description and maybe even explanation
+    --3sum.js  # actual code for the solution. the problem description and maybe even explanation
                      #   for the solution are in the form of comments
 --shell              # solutions for shell related problems
 --databases          # solutions for database related problems
