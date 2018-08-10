@@ -16,12 +16,24 @@ return [0, 1].
  */
 let nums = [5, 2, 2, 2, 7, 5, 3, 7, 4, 5, 4],
     target = 7;
-let twoSum = function (nums, target) {
-    for (let elIndex = 0; elIndex < nums.length - 1; elIndex++) {
-        let diff = nums.includes(target - nums[elIndex],elIndex+1);
-        let nextElIndex = nums.indexOf(target - nums[elIndex],elIndex+1);
-        if (diff) {
-            return [elIndex, nextElIndex];
+// long time algorithm
+// let twoSum = function (nums, target) {
+//     for (let elIndex = 0; elIndex < nums.length - 1; elIndex++) {
+//         let diff = nums.includes(target - nums[elIndex],elIndex+1);
+//         let nextElIndex = nums.indexOf(target - nums[elIndex],elIndex+1);
+//         if (diff) {
+//             return [elIndex, nextElIndex];
+//         }
+//     }
+// };
+// best time
+let twoSum = function(nums, target) {
+    let hash = {};
+    for(let i = 0; i < nums.length; i++){
+        if(hash[nums[i]] != undefined){
+            return [hash[nums[i]], i];
+        } else {
+            hash[target - nums[i]] = i;
         }
     }
 };
