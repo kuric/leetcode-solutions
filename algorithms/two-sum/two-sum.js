@@ -17,10 +17,12 @@ return [0, 1].
 let nums = [5, 2, 2, 2, 7, 5, 3, 7, 4, 5, 4],
     target = 7;
 let twoSum = function (nums, target) {
-    for (let i = 0; i < nums.length - 1; i++) {
-        if (nums.includes(target - nums[i])) {
-            return [i, nums.indexOf(target - nums[i])];
+    for (let elIndex = 0; elIndex < nums.length - 1; elIndex++) {
+        let diff = nums.includes(target - nums[elIndex],elIndex+1);
+        let nextElIndex = nums.indexOf(target - nums[elIndex],elIndex+1);
+        if (diff) {
+            return [elIndex, nextElIndex];
         }
     }
-}
+};
 console.log(twoSum(nums, target));
